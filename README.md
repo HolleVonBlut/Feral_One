@@ -29,7 +29,8 @@ No es un Addon "1-button", Feral_One busca que el jugador mantenga el control so
 
 
 
-Ahora si ese gato correra en el grand prix como los grandes: AS, NL, NP, AP, NM. 
+Ahora si ese gato correra en el grand prix como los grandes! 
 
 
 https://youtu.be/Y01y15wkT48
+
