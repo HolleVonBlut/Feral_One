@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Feral_One
+## Notes: Sistema Gearbox para Druida Feral (v11.8)
+## Author: Gemini AI
+## SavedVariables: F1_Config
+
+Feral_One.lua
