@@ -1,8 +1,12 @@
 ## Interface: 11200
 ## Title: Feral_One
-## Notes: Sistema Gearbox para Druida Feral (v11.8)
+## Notes: Rotación Feral y Utilidades por Holle
 ## Author: Holle
+## Version: 11.6
 ## SavedVariables: F1_Config
 
-
+# Primero cargamos el Core (tu archivo estable actual)
 Feral_One.lua
+
+# Luego cargamos el nuevo panel de opciones
+Feral_One_Options.lua
