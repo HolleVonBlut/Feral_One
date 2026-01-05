@@ -29,6 +29,7 @@ No es un Addon "1-button", Feral_One busca que el jugador mantenga el control so
 /fo p1 / p2 / n - Gestión de marchas de combate.
 
 ---------------------------------------------------------------
+<img width="1024" height="512" alt="creditos" src="https://github.com/user-attachments/assets/b1054fd2-242e-4fb6-b2f7-984cfa968209" />
 
 
 
@@ -36,5 +37,6 @@ Ahora si ese gato correra en el grand prix como los grandes!
 
 
 https://youtu.be/Y01y15wkT48
+
 
 
