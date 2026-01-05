@@ -226,7 +226,7 @@ local function ShowF1Logo()
     local startTime = GetTime()
     F1_LogoFrame:SetScript("OnUpdate", function()
         local elapsed = GetTime() - startTime
-        if elapsed > 5 then 
+        if elapsed > 8 then 
             local alpha = 1.0 - (elapsed - 5) 
             if alpha <= 0 then F1_LogoFrame:Hide(); F1_LogoFrame:SetScript("OnUpdate", nil)
             else F1_LogoFrame:SetAlpha(alpha) end
@@ -452,4 +452,5 @@ end
 
 -- También ejecutamos la visualización inicial para que la tuerca 
 -- aparezca en su posición guardada nada más entrar
+
 UpdateGearboxVisual()
