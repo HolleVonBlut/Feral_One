@@ -13,7 +13,7 @@ Feral_One es un asistente de rotación inteligente para Druidas Ferales en Turtl
 
 🚫 Sin Rip ni Faerie Fire: El addon no automatiza estas habilidades. El jugador debe decidir cuándo aplicar el debuff de armadura o cuándo priorizar el sangrado de Rip sobre un Forocius Bite.
 
-🐯 Tiger's Fury: Automatizado en rotación normal, pero desactivado en Berserk y P2, priorizando asi el spam de Shred/Claw/Shred y el flujo de energía puro.
+🐯 Tiger's Fury: Automatizado en rotación normal, pero desactivado en Berserk y P2, priorizando asi el spam de Shred/Claw/Rake y el flujo de energía puro.
 
 ⌨️ Comandos Rápidos
 
@@ -37,6 +37,7 @@ Ahora si ese gato correra en el grand prix como los grandes!
 
 
 https://youtu.be/Y01y15wkT48
+
 
 
 
