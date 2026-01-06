@@ -26,7 +26,7 @@ Feral_One es un asistente de rotación inteligente para Druidas Ferales en Turtl
     /fo p1 / p2 / n - Gestión de marchas de combate o use la rueda engine
 
 ---------------------------------------------------------------
-<img width="1024" height="512" alt="creditos" src="https://github.com/user-attachments/assets/b1054fd2-242e-4fb6-b2f7-984cfa968209" />
+<img width="1024" height="512" alt="creditos1" src="https://github.com/user-attachments/assets/3956ce7c-4f1b-49bb-8586-029b14da9058" />
 <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/bd7799d8-236a-4304-bf19-20b1b1fc4fb8" />
 <img width="408" height="241" alt="image" src="https://github.com/user-attachments/assets/c24ab660-2c8a-4458-928a-4aded63b5baf" />
 <img width="452" height="235" alt="image" src="https://github.com/user-attachments/assets/8c3560e2-3dfb-4378-9438-82e5ced0a2cf" />
@@ -37,6 +37,7 @@ Ahora si ese gato correra en el grand prix como los grandes!
 
 
 https://youtu.be/Y01y15wkT48
+
 
 
 
