@@ -1,3 +1,5 @@
+ADDON DESCONTINUADO
+
 # 🐾 Feral_One *GP* v11.6 - La Rotación Blindada ---- by Holle (SouthSeas server)
 
 Feral_One es un asistente de rotación inteligente para Druidas Ferales en Turtle WoW (1.12.1). Está diseñado para maximizar el flujo de energía mediante Reshift Dinámico, permitiendo que el jugador se concentre en la estrategia mientras el addon optimiza el gasto de energía.
@@ -37,6 +39,7 @@ Ahora si ese gato correra en el grand prix como los grandes!
 
 
 https://youtu.be/Y01y15wkT48
+
 
 
 
